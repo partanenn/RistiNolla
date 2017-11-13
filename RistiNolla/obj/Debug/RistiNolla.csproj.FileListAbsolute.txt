@@ -1,0 +1,59 @@
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\RistiNolla\RistiNolla\bin\Debug\RistiNolla.exe.config
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\RistiNolla\RistiNolla\bin\Debug\RistiNolla.exe
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\RistiNolla\RistiNolla\bin\Debug\RistiNolla.pdb
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\RistiNolla\RistiNolla\obj\Debug\RistiNolla.csprojResolveAssemblyReference.cache
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\RistiNolla\RistiNolla\obj\Debug\RistiNolla.Properties.Resources.resources
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\RistiNolla\RistiNolla\obj\Debug\RistiNolla.csproj.GenerateResource.Cache
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\RistiNolla\RistiNolla\obj\Debug\RistiNolla.csproj.CoreCompileInputs.cache
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\RistiNolla\RistiNolla\obj\Debug\RistiNolla.exe
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\RistiNolla\RistiNolla\obj\Debug\RistiNolla.pdb
+C:\Users\alepar\OneDrive for Business\OHII\RistiNolla\RistiNolla\bin\Debug\RistiNolla.exe.config
+C:\Users\alepar\OneDrive for Business\OHII\RistiNolla\RistiNolla\obj\Debug\RistiNolla.exe
+C:\Users\alepar\OneDrive for Business\OHII\RistiNolla\RistiNolla\obj\Debug\RistiNolla.pdb
+C:\Users\alepar\OneDrive for Business\OHII\RistiNolla\RistiNolla\bin\Debug\RistiNolla.exe
+C:\Users\alepar\OneDrive for Business\OHII\RistiNolla\RistiNolla\bin\Debug\RistiNolla.pdb
+C:\Users\alepar\OneDrive for Business\OHII\RistiNolla\RistiNolla\obj\Debug\RistiNolla.csprojResolveAssemblyReference.cache
+C:\Users\alepar\OneDrive for Business\OHII\RistiNolla\RistiNolla\obj\Debug\RistiNolla.Form1.resources
+C:\Users\alepar\OneDrive for Business\OHII\RistiNolla\RistiNolla\obj\Debug\RistiNolla.Properties.Resources.resources
+C:\Users\alepar\OneDrive for Business\OHII\RistiNolla\RistiNolla\obj\Debug\RistiNolla.csproj.GenerateResource.Cache
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\RistiNolla\RistiNolla\obj\Debug\RistiNolla.Game.resources
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\RistiNolla\RistiNolla\obj\Debug\RistiNolla.Menu.resources
+C:\Users\Partanenn\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\bin\Debug\RistiNolla.exe.config
+C:\Users\Partanenn\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\bin\Debug\RistiNolla.exe
+C:\Users\Partanenn\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\bin\Debug\RistiNolla.pdb
+C:\Users\Partanenn\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.csprojResolveAssemblyReference.cache
+C:\Users\Partanenn\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.Menu.resources
+C:\Users\Partanenn\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.Properties.Resources.resources
+C:\Users\Partanenn\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.csproj.GenerateResource.Cache
+C:\Users\Partanenn\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.csproj.CoreCompileInputs.cache
+C:\Users\Partanenn\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.exe
+C:\Users\Partanenn\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.pdb
+C:\Users\Partanenn\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.VsKaveri.resources
+C:\Users\Partanenn\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.Kauppa.resources
+C:\Users\Partanenn\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.VsKone.resources
+C:\Users\Partanenn\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.Nimet.resources
+Z:\aaaRistiNolla\RistiNolla\bin\Debug\RistiNolla.exe.config
+Z:\aaaRistiNolla\RistiNolla\bin\Debug\RistiNolla.exe
+Z:\aaaRistiNolla\RistiNolla\bin\Debug\RistiNolla.pdb
+Z:\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.csprojResolveAssemblyReference.cache
+Z:\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.Nimet.resources
+Z:\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.VsKaveri.resources
+Z:\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.Kauppa.resources
+Z:\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.Menu.resources
+Z:\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.Properties.Resources.resources
+Z:\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.VsKone.resources
+Z:\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.csproj.GenerateResource.Cache
+Z:\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.csproj.CoreCompileInputs.cache
+Z:\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.exe
+Z:\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.pdb
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.csprojResolveAssemblyReference.cache
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.Nimet.resources
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.VsKaveri.resources
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.Kauppa.resources
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.Menu.resources
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.Properties.Resources.resources
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.VsKone.resources
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.csproj.GenerateResource.Cache
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.csproj.CoreCompileInputs.cache
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.exe
+C:\Users\Partanen\OneDrive - University of Eastern Finland\OHII\aaaRistiNolla\RistiNolla\obj\Debug\RistiNolla.pdb
